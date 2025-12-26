@@ -1,0 +1,14 @@
+# virtual environment
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# model artifacts
+model.pkl
+pipeline.pkl
+
+# generated input output files
+input.csv
+output.csv
